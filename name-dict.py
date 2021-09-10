@@ -1,4 +1,4 @@
-# Chinese - English NBA team Names 
+# Chinese - English NBA teams Name 
 
 NBATeamCN = {
     "骑士":"Cavaliers",
